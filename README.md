@@ -11,3 +11,11 @@ project no 1 : Customer churn rate prediction.
                               3.XGBoost.
                      7.Randomized Search to find the best parameters (XGBoost)
                      8.Final Model (XGBoost).
+
+
+project no 2 : Object Recognition in Images with CNN.
+                     1.Installation and Setup.
+                     2.Data Preprocessing.
+                     3.Building the CNN.
+                     4.Training the model.
+                     5.Model evaluation and prediction.
